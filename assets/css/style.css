@@ -106,7 +106,7 @@
     border: #dbdbdb 1px solid;
 }
 
-.escqueceu-senha {
+.esqueceu-senha {
     position: absolute;
     bottom: 2rem;
     font-size: 12px;
@@ -114,20 +114,20 @@
     text-decoration: none;
 }
 
-.container-sing-up {
+.container-singup {
     display: flex;
     gap: 0.5rem;
     justify-content: center;
     align-items: center;
 }
 
-.container-sing-up a {
+.container-singup a {
     text-decoration: none;
     color: rgb(47, 144, 241);
     font-weight: bold;
 }
 
-.container-get-app {
+.container-app {
     width: 350px;
     height: 50px;
 
@@ -137,13 +137,13 @@
     align-items: center;
 }
 
-.container-get-app p {
+.container-app p {
     color: #262626;
     font-size: 14px;
     line-height: 18px;
 }
 
-.container-get-app img {
+.container-app img {
     width: 135px;
     height: 40px;
 }
